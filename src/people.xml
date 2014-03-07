@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<friends counter="3">
+   <person userID="1">
+      <firstName>meng</firstName>
+      <lastName>zhang</lastName>
+      <bachelor>Huazhong University of Science and Technology</bachelor>
+      <creationTime>Wed Mar 05 21:54:00 CST 2014</creationTime>
+      <lastModificationTime>Wed Mar 05 21:54:00 CST 2014</lastModificationTime>
+      <gender>male</gender>
+   </person>
+   <person userID="2">
+      <firstName>mai</firstName>
+      <lastName>ao</lastName>
+      <gender>male</gender>
+      <address>Nanchong</address>
+      <highSchool>Chengdu Foreign Languages School</highSchool>
+      <creationTime>Wed Mar 05 21:54:00 CST 2014</creationTime>
+      <lastModificationTime>Wed Mar 05 21:54:00 CST 2014</lastModificationTime>
+   </person>
+   <person userID="3">
+      <firstName>rui</firstName>
+      <lastName>wu</lastName>
+      <gender>male</gender>
+      <creationTime>Wed Mar 05 21:54:00 CST 2014</creationTime>
+      <lastModificationTime>Wed Mar 05 21:54:00 CST 2014</lastModificationTime>
+   </person>
+</friends>
