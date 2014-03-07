@@ -1,3 +1,3 @@
 This is a mini Personal Information Manage System that I develop for fun and personal use.
 Storage is based on XML which is easy to read and construct. 
-The advantage of using XML is that the data structure is easy to extend. It will be able to add as many new element as you want at any time which tradition database can’t. These’s also some new unstructured database I will try late.
+The advantage of using XML is that the data structure is easy to extend. It will be able to add as many new elements as you want at any time which tradition database can’t. These’s also some new unstructured database I will try later.
